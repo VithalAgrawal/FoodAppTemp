@@ -1,0 +1,18 @@
+.table-container {
+  border-radius: 4px;
+  /* background: #DEF3FF; */
+  margin: 0 auto;
+ 
+}
+
+.booking {
+  color: #0071BA;
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  margin-top: 23px;
+  /* margin-left: 75px; */
+  text-align: center;
+  /* line-height: 26px; */
+}

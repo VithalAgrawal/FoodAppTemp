@@ -1,0 +1,37 @@
+/* .lunch-booking {
+    padding: 10px;
+    
+  
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: -20px;
+    height:400px;
+    width:350px;
+    box-sizing: border-box;
+    
+  }
+  .cab-booking {
+    padding: 10px;
+    
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top: -20px;
+    height:400px;
+    width:350px;
+    box-sizing: border-box;
+  } */
+  
+  
+  /* .lunch-booking h4 {
+    /* margin-bottom: 10px; */
+    /* font-weight: bold; */
+  /* } */
+  
+  /*  */
+  
+  .MuiPaper-root {
+    background: none;
+    box-shadow: none !important;
+}
+  
